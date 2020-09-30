@@ -1,0 +1,1 @@
+# Pattern-password-reset-Zip
